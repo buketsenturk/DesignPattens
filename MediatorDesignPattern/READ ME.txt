@@ -1,0 +1,5 @@
+Ödevde external library kullandýk.Gönderdiðimiz G01_CENG431_HW1 dosyasýnda .jar dosyasýný koyduk. 
+
+Projenin g01 package'ýna sað týklanýr --> Build Path --> Configure Build Path -->
+açýlan pencerede üstteki sekmelerden Libraries sekmesi seçilir->öðrencinin desktop'ýnda bulunan library remove edilir --> 
+sað sekmelerden Add External JARs týklanýr --> proje içindeki gson-2.6.2.jar file seçilir --> Apply and Close
